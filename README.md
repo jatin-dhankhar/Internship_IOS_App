@@ -1,6 +1,6 @@
 # elasto_india
 
-A new Flutter application.
+A new Flutter application I made in my internship.
 
 ## Getting Started
 
