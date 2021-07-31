@@ -1,6 +1,7 @@
 # elasto_india
 
-A new Flutter application I made in my internship.
+A new Flutter application I made in my internship. My role in the internship was to create an android application for a pre-existing application in java, where the customer could see all the different kinds of elastic products offered by the company Elasto. The customers get a categorized view of two different kinds of elastic products and new elastic products. The images of products are visible and the user could click on the product and could get details of it and if want to purchase could also enquire about it. The images could be zoomed and the different colors and sizes of items are also visible.
+The prior work done for the app was in a rudimentary state and needed some brushing up before getting started with the application. Another major issue that had to be handled was to get the database that had to be setup at the firebase needed to be done by code and not manually so that it can be beneficial for the company’s future use.
 
 ## Getting Started
 
